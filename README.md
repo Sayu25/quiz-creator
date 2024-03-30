@@ -15,3 +15,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Project
 
 An interface to create quizzes for the Avanti Fellows Quiz Engine, and remove the dependence on Google Sheets completely.
+
+# Product Name
+> Quiz Creator
+
+# Tech Skills Needed
+- HTML, CSS
++ TypeScript
